@@ -40,23 +40,6 @@ A sleek, desktop GUI calculator built with Python using **CustomTkinter**. It fe
 
 ---
 
-## Installation & Setup
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-```
-
-
-2. **Install dependencies:**
-```bash
-pip install customtkinter
-
-```
-
-
 3. **Required Assets:**
 Ensure the following asset files are present in your project directory:
 
