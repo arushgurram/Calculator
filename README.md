@@ -6,8 +6,6 @@ A sleek, desktop GUI calculator built with Python using **CustomTkinter**. It fe
 
 ## Preview
 
-![Calculator App Preview] (calculator preview.png)
-
 <p align="center">
   <img src="calculator-preview.png" alt="Calculator Preview" width="400">
 </p>
