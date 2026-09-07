@@ -47,11 +47,3 @@ Ensure the following asset files are present in your project directory:
 * `calculator-ico.ico`
 
 * `calculator.png`
-
-
-
-4. **Run the Application:**
-```bash
-python main.py
-
-```
