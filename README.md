@@ -40,7 +40,7 @@ A sleek, desktop GUI calculator built with Python using **CustomTkinter**. It fe
 
 ---
 
-3. **Required Assets:**
+**Required Assets:**
 Ensure the following asset files are present in your project directory:
 
 
