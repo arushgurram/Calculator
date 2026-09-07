@@ -4,9 +4,9 @@ A sleek, desktop GUI calculator built with Python using **CustomTkinter**. It fe
 
 ---
 
-## A Quick Preview
+## Preview
 
-C:\Users\RAMESH G\Pictures\Screenshots/calculator preview.png
+![Calculator App Preview](calculator preview.png)
 
 ---
 
