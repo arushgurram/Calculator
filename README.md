@@ -4,6 +4,12 @@ A sleek, desktop GUI calculator built with Python using **CustomTkinter**. It fe
 
 ---
 
+## A Quick Preview
+
+C:\Users\RAMESH G\Pictures\Screenshots/calculator preview.png
+
+---
+
 ## Features
 
 * **Custom Dark Theme:** Modern UI styled with custom color palettes and Consolas/Segoe UI typography.
